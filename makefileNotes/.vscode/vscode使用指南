@@ -1,0 +1,6 @@
+1.cpp工程的配置
+1) ctrl+shift+p c/c++编辑配置(json)
+2) ctrl+shfit+p 选择workspace settings
+
+2.vscode快捷键
+ctrl+b 隐藏/显示资源管理器
